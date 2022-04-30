@@ -1,4 +1,4 @@
-#title : **"github.io 블로그 첫글"**. 
+# title : **"github.io 블로그 첫글"**. 
 ***
 excerpt: "gitbug.io 블로그 첫 글 작성해봅니다."
 ***
