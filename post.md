@@ -10,5 +10,6 @@ categories:
 * Blog.   
 * contributor. 
 ___
-manager:김민상
+**manager:김민상.** 
+⭐ 👍
 ___
